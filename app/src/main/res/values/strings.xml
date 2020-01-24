@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MONGOBD</string>
+    <string name="service">MONGOBD</string>
+    <string name="createService">MONGOBD</string>
+
+    <string name="BASE_POST_URL">MONGOBD</string>
+    <string name="">MONGOBD</string>
+    <string name="Apiconstans">MONGOBD</string>
+    <string name="marketService">MONGOBD</string>
+    <string name="BaseAdapter">MONGOBD</string>
+
+
+
+
+</resources>
