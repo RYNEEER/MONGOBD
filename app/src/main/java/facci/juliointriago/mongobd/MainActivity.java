@@ -44,8 +44,7 @@ public class MainActivity extends AppCompatActivity {
     private void PostPosts() {
         MarketAdapter adapter = new MarketAdapter();
         Call<Post> call = adapter.InsertPost(new Post(editTexttitulo.getText().toString(), editTextDescriptcion.getText().toString(),
-                        "http://www.edvill.com/wp-content/uploads/2012/10/Angus-Young-EdVill.png"
-                )
+                        "https://ih0.redbubble.net/image.426242691.0523/flat,750x,075,f-pad,750x1000,f8f8f8.u5.jpg")
         );
         call.enqueue(new Callback<Post>() {
             @Override
